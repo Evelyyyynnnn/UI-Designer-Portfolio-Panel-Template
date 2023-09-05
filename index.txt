@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Vicky Du
+Vicky Du
+Designer and Developer
 
 Show Contacts
 
 Email
-richard@example.com
+vickydu1213@gmail.com
 
 Phone
-+1 (213) 352-2795
++86 (151) 1695-1871
 
 Birthday
-June 23, 1982
+July 7, 2001
 
 Location
-Sacramento, California, USA
+Shanghai, China, 
 
 # navbar
 
@@ -32,9 +32,9 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm a Creative Designer and Developer from Shanghai,China, working for business,media and computer science. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+My job is to come up the idea of your project so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created design job for many famous brand companies.
 
 
 ## service
@@ -42,19 +42,19 @@ My job is to build your website so that it is functional and user-friendly but a
 What i'm doing
 
 alt = design icon
-Web design
+Interface design
 The most modern and high-quality design made at a professional level.
 
 alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+Project development
+High-quality development of Business Project at the professional level.
 
 alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+Personal Interaction
+I make high-quality photos of any category at a professional level.
 
 alt = camera icon
-Photography
+Modeling and Phtotography
 I make high-quality photos of any category at a professional level.
 
 
@@ -64,20 +64,19 @@ Testimonials
 
 alt = Daniel lewis
 Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Vicky was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
 alt = Jessica miller
 Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Vicky's modeling and photography skills are truly exceptional. We were incredibly impressed with the quality of her work. She brings a wealth of experience to her craft and is deeply committed to meeting the unique needs of her clients. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 alt = Emily evans
 Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Vicky was hired to work on complex projects, and we were extremely pleased with her professionalism and dedication. Vicky demonstrates a wealth of experience and a genuine concern for understanding and addressing the specific needs of her clients. Her ability to engage with clients and build strong relationships is commendable. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 alt = Henry william
 Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
+Vicky's web development performance in real business cases has exceeded our expectations. When we hired her to work on our web projects, we were highly impressed with the results. Her dedication to delivering top-notch web solutions and her commitment to understanding and meeting our specific requirements have been outstanding. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 
 ## clients
 
