@@ -1908,7 +1908,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 
 .bubble {
-  background-color: hsl(45, 100%, 71%); /* Updated color */
+  background-color:hsl(35, 100%, 68%); /* Updated color */
   color: white;
   border-radius: 50%;
   padding: 10px 20px;
