@@ -1907,7 +1907,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   font-weight: bold;
   color: white;
   margin-right: 2px;
-  align-self: center;
+  align-self: left;
   text-align: left; /* Left align the title */
   width: auto; /* Ensure the title takes full width */
 }
