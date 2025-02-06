@@ -1906,7 +1906,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   font-size: 20px;
   font-weight: bold;
   color: white;
-  margin-right: 10px;
+  margin-right: 2px;
   align-self: center;
   text-align: left; /* Left align the title */
   width: 100%; /* Ensure the title takes full width */
