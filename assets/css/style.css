@@ -1889,8 +1889,7 @@ textarea.form-input::-webkit-resizer { display: none; }
  * #Bubble 
  */
 
-
- /* Bubble Section Styling */
+/* Bubble Section Styling */
 .bubble-section {
   margin-top: 20px;
   padding: 10px;
@@ -1898,7 +1897,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 .bubble-row {
   display: flex;
-  justify-content: center;
+  justify-content: center; /* Center bubbles */
   margin-bottom: 15px;
   gap: 20px; /* Space between bubbles */
 }
@@ -1909,6 +1908,8 @@ textarea.form-input::-webkit-resizer { display: none; }
   color: white;
   margin-right: 10px;
   align-self: center;
+  text-align: left; /* Left align the title */
+  width: 100%; /* Ensure the title takes full width */
 }
 
 .bubble {
