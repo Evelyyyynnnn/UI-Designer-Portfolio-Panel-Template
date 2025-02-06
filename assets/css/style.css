@@ -1897,7 +1897,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 .bubble-row {
   display: flex;
-  justify-content: center; /* Center bubbles */
+  justify-content: flex-start; /* Center bubbles */
   margin-bottom: 15px;
   gap: 20px; /* Space between bubbles */
 }
@@ -1909,7 +1909,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   margin-right: 2px;
   align-self: center;
   text-align: left; /* Left align the title */
-  width: 100%; /* Ensure the title takes full width */
+  width: auto; /* Ensure the title takes full width */
 }
 
 .bubble {
