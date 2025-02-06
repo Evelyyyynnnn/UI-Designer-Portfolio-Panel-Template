@@ -1897,7 +1897,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 .bubble-row {
   display: flex;
-  justify-content: flex-start; /* Center bubbles */
+  justify-content: center; /* Center bubbles */
   margin-bottom: 15px;
   gap: 20px; /* Space between bubbles */
 }
