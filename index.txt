@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Vicky Du
-Vicky Du
+alt = Evelyn Du
+Evelyn Du
 Designer and Developer
 
 Show Contacts
@@ -12,13 +12,13 @@ Email
 vickydu1213@gmail.com
 
 Phone
-+86 (151) 1695-1871
++1 (607) 262-4282
 
 Birthday
 July 7, 2001
 
 Location
-Shanghai, China, 
+New York, United States 
 
 # navbar
 
@@ -32,7 +32,7 @@ Contact
 
 About me
 
-I'm a Creative Designer and Developer from Shanghai,China, working for business,media and computer science. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm a Creative Designer and Developer from New York,the United States, working for business,media and computer science. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
 My job is to come up the idea of your project so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created design job for many famous brand companies.
 
